@@ -120,6 +120,7 @@ Il est préférable de créer un projet RStudio pour bénéficier de toutes les 
 # Code
 
 Les principales caractéristiques de Markdown sont résumées ici.
+Salut je viens juste rajouter un truc. 
 
 
 ## Code R
@@ -133,7 +134,8 @@ head(cars)
 
 ## Tableaux
 
-Les séparateurs horizontaux - et verticaux | permettent de dessiner un tableau selon la syntaxe de Markdown, mais ce n'est pas la meilleure méthode.
+Une phrase a été enlevée. 
+ de Markdown, mais ce n'est pas la meilleure méthode.
 
 Les tableaux peuvent aussi être produits par du code R.
 Le contenu du tableau est dans un dataframe.
